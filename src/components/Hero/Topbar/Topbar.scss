@@ -1,0 +1,10 @@
+.hero__topbar {
+    z-index: 2;
+    display: flex;
+    & .container {
+      align-items: center;
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+  

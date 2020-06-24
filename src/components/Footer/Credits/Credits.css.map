@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,gBAAgB,CAAA;EACZ,SAAS,EAAE,KAAK;EAChB,MAAM,EAAE,WAAW;CACtB;;AAED,AAAA,MAAM,CAAA;EACF,SAAS,EAAE,GAAG;CACjB;;AAED,AAAA,OAAO,CAAA;EACH,SAAS,EAAE,GAAG;CACjB",
+    "sources": [
+        "Credits.scss"
+    ],
+    "names": [],
+    "file": "Credits.css"
+}

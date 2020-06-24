@@ -1,0 +1,31 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "poster": "https://i.ibb.co/C1f7x55/poster-moonlight.jpg",
+            "name": "Moonlight",
+            "gender": [
+                "Drama"
+            ],
+            "grade": 7.0
+        },
+        {
+            "id": 2,
+            "poster": "https://i.ibb.co/C1f7x55/poster-moonlight.jpg",
+            "name": "Moonlight",
+            "gender": [
+                "Drama"
+            ],
+            "grade": 7.0
+        },
+        {
+            "id": 3,
+            "poster": "https://i.ibb.co/C1f7x55/poster-moonlight.jpg",
+            "name": "Moonlight",
+            "gender": [
+                "Drama"
+            ],
+            "grade": 7.0
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,QAAQ,CAAA;EACJ,gBAAgB,ECOP,OAAO;EDNhB,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "Catalog.scss",
+        "../../variables.scss"
+    ],
+    "names": [],
+    "file": "Catalog.css"
+}
