@@ -1,8 +1,10 @@
 # React IMDB
 
-##Este projeto foi desenvolvido para o curso de aceleração da Codenation sobre React
+Link para página no Netlfy: 
 
-##Site estático que trabalha os conhecimentos em:
+## Este projeto foi desenvolvido para o curso de aceleração da Codenation sobre React
+
+## Site estático que trabalha os conhecimentos em:
 
 - Componentização React;
 - Uso de estilos css e uso de scss;
